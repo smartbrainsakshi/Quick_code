@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Circular_Ripple_lollipop</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Data Sent</string>
+    <string name="action">Your Requirement</string>
+
+    <string name="title_activity_splash">splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
